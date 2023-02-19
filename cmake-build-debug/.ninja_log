@@ -1,0 +1,19 @@
+# ninja log v5
+1	67	6984351023444750	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+67	135	6984351024098297	FinalProject.exe	2de131a12d2a00f8
+2	38	6984356383221158	CMakeFiles/FinalProject.dir/functions.c.obj	5681170331a96d69
+39	108	6984356383867584	FinalProject.exe	fb12c2d6b73b3e37
+1	64	6984357638474249	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+65	134	6984357639131480	FinalProject.exe	fb12c2d6b73b3e37
+1	73	6984359154886770	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+73	146	6984359155594647	FinalProject.exe	fb12c2d6b73b3e37
+1	67	6984360324810525	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+67	136	6984360325463489	FinalProject.exe	fb12c2d6b73b3e37
+1	64	6984360416813314	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+64	135	6984360417495521	FinalProject.exe	fb12c2d6b73b3e37
+2	67	6984360936676658	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+68	137	6984360937344825	FinalProject.exe	fb12c2d6b73b3e37
+5	96	6985238917162571	CMakeFiles/FinalProject.dir/functions.c.obj	5681170331a96d69
+1	66	6985239650168783	CMakeFiles/FinalProject.dir/main.c.obj	35141f9805417011
+2	38	6985240003874111	CMakeFiles/FinalProject.dir/functions.c.obj	5681170331a96d69
+38	109	6985240004542484	FinalProject.exe	fb12c2d6b73b3e37
