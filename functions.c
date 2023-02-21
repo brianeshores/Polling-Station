@@ -1,34 +1,19 @@
-//
+
 //#include <stdio.h>
 //#include <string.h>
 //#include <stdbool.h>
 //#include <time.h>
 //#include <stdlib.h>
+//#include "definitions.h"
+
 //
-//char password[20];
-//struct Admin {
-//    char fName[30];
-//    char lName[30];
-//    char userName[30];
-//    char password[30];
-//};
 //
-//struct Voter
-//{
-//    int voterId;
-//    char fName[30];
-//    char lName[30];
-//    char street[30];
-//    char city[30];
-//    char phone[30];
-//    bool hasVoted;
-//};
 //
 //const char* randomPasswordGenerator(int n) {
 //    int i;
 //    int randomizer;
 //
-////  initialize password characters
+//  initialize password characters
 //    srand((unsigned int) (time(NULL)));
 //
 //    char numbers[] = "1234567890";

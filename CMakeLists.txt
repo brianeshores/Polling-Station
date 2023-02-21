@@ -3,4 +3,4 @@ project(FinalProject C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(FinalProject main.c functions.c functions.h)
+add_executable(FinalProject main.c functions.c functions.h definitions.h)
