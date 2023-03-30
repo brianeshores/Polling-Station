@@ -6,6 +6,14 @@
 #include <stdlib.h>
 
 char password[20];
+
+struct PollOfficer {
+    char fName[20];
+    char lName[20];
+    char userName[30];
+    char password[30];
+};
+
 struct Admin {
     char fName[30];
     char lName[30];
