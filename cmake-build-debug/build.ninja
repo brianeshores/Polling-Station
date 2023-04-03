@@ -55,12 +55,6 @@ build CMakeFiles/FinalProject.dir/main.c.obj: C_COMPILER__FinalProject_Debug C$:
   OBJECT_DIR = CMakeFiles\FinalProject.dir
   OBJECT_FILE_DIR = CMakeFiles\FinalProject.dir
 
-build CMakeFiles/FinalProject.dir/functions.c.obj: C_COMPILER__FinalProject_Debug C$:/Users/brian/Semester$ 2/FinalProject/functions.c || cmake_object_order_depends_target_FinalProject
-  DEP_FILE = CMakeFiles\FinalProject.dir\functions.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu11
-  OBJECT_DIR = CMakeFiles\FinalProject.dir
-  OBJECT_FILE_DIR = CMakeFiles\FinalProject.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FinalProject
@@ -69,7 +63,7 @@ build CMakeFiles/FinalProject.dir/functions.c.obj: C_COMPILER__FinalProject_Debu
 #############################################
 # Link the executable FinalProject.exe
 
-build FinalProject.exe: C_EXECUTABLE_LINKER__FinalProject_Debug CMakeFiles/FinalProject.dir/main.c.obj CMakeFiles/FinalProject.dir/functions.c.obj
+build FinalProject.exe: C_EXECUTABLE_LINKER__FinalProject_Debug CMakeFiles/FinalProject.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\FinalProject.dir

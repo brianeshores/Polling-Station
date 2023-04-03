@@ -7,6 +7,8 @@
 
 char password[20];
 
+char passcode[20];
+
 struct PollOfficer {
     char fName[20];
     char lName[20];
@@ -15,6 +17,7 @@ struct PollOfficer {
 };
 
 struct Admin {
+    int id;
     char fName[30];
     char lName[30];
     char userName[30];
@@ -33,6 +36,8 @@ struct Voter
     char passcode[6];
 };
 
+struct Voter voters[100];
+
 struct Candidate {
     int id;
     char fName[30];
@@ -44,4 +49,3 @@ struct Candidate {
 char currentUser[30];
 char currentUserPassword[30];
 int option;
-bool isRunning = true;
